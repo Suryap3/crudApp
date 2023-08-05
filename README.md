@@ -1,4 +1,3 @@
-
 CRUD App
 This is a simple CRUD application built with the MERN stack, using MongoDB for data storage and Tailwind CSS for styling. Functions include adding, deleting, and editing items. Contributions are welcome!
 
