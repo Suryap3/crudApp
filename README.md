@@ -8,7 +8,13 @@ Clone the repository
 
 Install dependencies: npm install
 
-Start the app: npm start
+Start the server: npm start
+
+Change directory to client 
+
+Install dependencies: npm install
+
+Start the client: npm start
 
 Access it at http://localhost:3000
 
