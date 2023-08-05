@@ -7,6 +7,7 @@ Getting Started
 Clone the repository
 
 Install dependencies: npm install
+
 Start the app: npm start
 
 Access it at http://localhost:3000
